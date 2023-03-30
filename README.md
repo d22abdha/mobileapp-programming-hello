@@ -1,11 +1,8 @@
 
 # Rapport
 
-Jag har laddat ner IDE android studio, gorde fork från Github och ändrade Hello world till My Hello. 
-
-![](Screenshot_20230329_115022.png)
-
-
+Jag har laddat ner IDE android studio, gjorde fork från Github och ändrade Hello world till
+my project. 
 
 ```
 <resources>
@@ -13,4 +10,4 @@ Jag har laddat ner IDE android studio, gorde fork från Github och ändrade Hell
 </resources>
 ```
 
-
+![](Screenshot_20230330_084541.png)
